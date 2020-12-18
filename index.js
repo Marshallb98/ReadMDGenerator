@@ -5,6 +5,11 @@ const fs = require('fs');
 
 // function to write README file
 function writeToFile(fileName, data) {
+    this.data = data
+    fs.writeFileSync("README.md", genMarkdown(data), function(err) {
+        if (err) throw err
+    });
+    console.log("ReadMe Created!")
 }
 
 // function to initialize program
@@ -59,10 +64,15 @@ function init() {
             },
         ])
         .then((answer) => {
-            
-        }
-        )
-}
+            writeToFile("README.md", answer)
+            console.log(answer)
+
+        });
+    }
+    
+        
+        
+
 
 // function call to initialize program
 init();

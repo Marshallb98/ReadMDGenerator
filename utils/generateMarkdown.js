@@ -24,7 +24,7 @@ ${data.install}
 
 ## Usage 
 
-${data.install}
+${data.usage}
 
 
 ## License
