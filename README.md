@@ -1,53 +1,47 @@
-# asd
+# README Generator
   
   ## Description 
 
-asd
+It is to help you create a professional README really quickly!
 
 
 ## Table of Contents 
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 
 ## Installation
 
-asd
+You most have Node installed and then npm i inquirer!
 
 
 ## Usage 
 
-asd
+This is going to be where you want to add the imagery to your README to really give it life
+
+To help save you time!
 
 
 ## License
 
-apache-2.0
+unlicense
 
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+![License](https://img.shields.io/badge/License-unlicense-red)
 
 
 ## Contributing
 
-asd
+Making it pop a little more and touching up the badges!
+
 
 ## Tests
 
-asdas
+node index!
 
 
 ---
