@@ -1,8 +1,8 @@
-# README Generator
+# README Generator!
   
   ## Description 
 
-It is to help you create a professional README really quickly!
+It helps save time by having an outline premade with you just filling in the information required!
 
 
 ## Table of Contents 
@@ -17,32 +17,41 @@ It is to help you create a professional README really quickly!
 
 ## Installation
 
-You most have Node installed and then npm i inquirer!
+npm i you also must have node.js
 
 
 ## Usage 
 
 This is going to be where you want to add the imagery to your README to really give it life
 
-To help save you time!
+DRY method it just saves time by not having to make a new readme file every project.
 
+[Video Demo](https://drive.google.com/file/d/18eEimXZp4RKnWYcmQ1iHfILCiJTRswRS/view)
 
 ## License
 
-unlicense
 
-![License](https://img.shields.io/badge/License-unlicense-red)
+
+![License](https://img.shields.io/badge/license-apache--2.0-red)
 
 
 ## Contributing
 
-Making it pop a little more and touching up the badges!
+Making more badge varieties and making it a little more vibriant.
 
 
 ## Tests
 
-node index!
+node index
 
+
+## Questions
+
+Feel free to reach out to me at anytime if you have any questions or input on this!
+
+Marshallb62@gmail.com
+
+[GitHub](https://github.com/Marshallb98)
 
 ---
 
